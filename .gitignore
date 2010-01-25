@@ -2,4 +2,4 @@
 ._*
 *~
 *.tmproj
-build/
+pkg/
